@@ -1,10 +1,9 @@
 module.exports = {
-
-   env: {
-      "amd": true,
-      "node": true
-   },
-   rules: {
+  "env": {
+    "amd": true,
+    "node": true
+  },
+  "rules": {
       "comma-dangle": [2, "never"],
       "no-cond-assign": [2, "always"],
       "no-constant-condition": 2,
@@ -99,7 +98,7 @@ module.exports = {
       "eol-last": 2,
       "func-style": [2, "declaration"],
       "id-length": [1, { "min": 1, "max": 18 }],
-      // "indent": [2, 3],
+     // "indent": [2, 3],
       "key-spacing": 2,
       "linebreak-style": 0,
       "max-depth": [2, 3],
@@ -137,6 +136,5 @@ module.exports = {
       "space-infix-ops": 2,
       "space-unary-ops": 2,
       "spaced-comment": [2, "always"]
-     }
    }
 };
