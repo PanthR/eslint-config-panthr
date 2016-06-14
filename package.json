@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-panthr",
+  "version": "1.0.0",
+  "description": "Eslint configuration for PanthR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanthR/eslint-config-panthr.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "PanthR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PanthR/eslint-config-panthr/issues"
+  },
+  "homepage": "https://github.com/PanthR/eslint-config-panthr#readme"
+}
