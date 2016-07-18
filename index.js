@@ -103,7 +103,7 @@ module.exports = {
       "linebreak-style": 0,
       "max-depth": [2, 3],
       "max-len": [1, 105, 3, { "ignorePattern": "^\\s*\\*" }],
-      "max-nested-callbacks": [2, 4],
+      "max-nested-callbacks": [2, 5],
       "max-params": [2, 5],
       "max-statements": [1, 40],
       "new-cap": 2,
