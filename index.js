@@ -84,7 +84,6 @@ module.exports = {
       "no-shadow": 2,
       "no-undef-init": 2,
       "no-undef": 2,
-      "no-undefined": 1,
       "no-unused-vars": [2, {"vars": "all", "args": "none"}],
       "no-use-before-define": [2, "nofunc"],
       "array-bracket-spacing": [2, "never"],
