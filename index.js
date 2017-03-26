@@ -28,7 +28,7 @@ module.exports = {
       "use-isnan": 2,
       "valid-typeof": 2,
       "block-scoped-var": 2,
-      "complexity": [1, 10],
+      "complexity": 0,
       "consistent-return": 2,
       "curly": 2,
       "dot-location": [2, "property"],
